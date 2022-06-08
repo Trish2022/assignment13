@@ -1,0 +1,22 @@
+body {
+    margin-top: 2em;
+}
+button {
+    font-size: 1.25em;
+    padding: .5em 1.5em; 
+    font-weight: bold;
+    margin:1em; 
+    color: #00668b; 
+    border: 1px solid #00668b; 
+    border-radius: 2px;
+    width: 200px;
+}
+button:hover {
+    background-color: rgba(128, 128, 128, 0.937);
+    color: #acdbec; 
+    border: 1px solid #acdbec;
+}
+#nameBtn {
+    width: 440px;
+}
+    
